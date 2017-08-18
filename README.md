@@ -1,6 +1,8 @@
 # youtube
 Tools for studying how youtube is used to to provide and seek support for suicide and self-harm.
 
+It requires python 2.7.* and some common data science libraries. We recommend you install the Anaconda distribution of python.
+
 Simply run
 
 `python youtube.py Untitled.graphml`
