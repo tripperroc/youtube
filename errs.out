@@ -1,0 +1,6993 @@
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['2421', '217', '1307', '1302', '1260', '1613', '3048', '1722', '1774', '2527', '167', '2520', '1834', '3185', '3122', '3123', '2406', '2407', '541', '2150', '400', '812', '2241', '2242', '2912', '1093', '677', '2857', '3134', '1956', '3131', '1905', '1953', '1755', '1069', '1701', '1825', '2317', '57', '2312', '417', '412', '1411', '1386', '372', '1415', '1416', '2067', '1087', '1129', '2901', '3097', '2906', '2905', '2872', '983', '980', '3006', '987', '1126', '1921', '1174', '2828', '275', '2824', '84', '797', '796', '2786', '1850', '2549', '1856', '1903', '2667', '2268', '1398', '1652', '1395', '1400', '1656', '1529', '1404', '449', '1130', '531', '1233', '2760', '2285', '1333', '2287', '1805', '3156', '3267', '389', '1448', '1643', '3198', '1637', '3016', '1537', '1076', '1535', '1532', '1531', '1077', '2266', '648', '3098', '2148', '430', '3264', '2615', '2614', '2839', '2592', '2292', '571', '628', '457', '63', '2197', '2198', '176', '2801', '3162', '3008', '3160', '203', '2883', '2886', '3212', '2056', '1735', '1251', '2567', '1699', '650', '1634', '2685', '3051', '2815', '750', '184', '2813', '2120', '464', '2401', '1357', '565', '1354', '2432', '2180', '1591', '1866', '2189', '1912', '3176', '2212', '3205', '967', '3203', '2215', '1996', '1628', '865', '1028', '1181', '2082', '2358', '1102', '2022', '2352', '1516', '1350', '883', '2730', '1208', '2635', '1847', '889', '2437', '1761', '278', '3064', '584', '3068', '230', '3233', '1897', '2133', '2130', '876', '3106', '1192', '2348', '2740', '2742', '852', '1759', '1691', '2505', '680', '1296', '1698', '1567', '832', '144', '1219', '2723', '2542', '898', '617', '615', '1712', '3059', '2972', '485', '1671', '1969', '509', '1287', '2166', '3118', '2231', '3115', '2235', '1288', '1970', '472', '1364', '3250', '1573', '2535', '838', '358'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['2965', '2712', '212', '1301', '1145', '1262', '1782', '127', '218', '765', '3049', '2091', '40', '2092', '2084', '3045', '3046', '690', '697', '2325', '1541', '2950', '2329', '699', '2528', '542', '2407', '2404', '2382', '2249', '342', '666', '932', '936', '817', '2913', '2708', '717', '1157', '1156', '1794', '262', '1492', '555', '330', '264', '219', '1700', '1702', '1828', '54', '3247', '2396', '2397', '2414', '2559', '2060', '498', '373', '2063', '1184', '926', '988', '2474', '2905', '1080', '704', '312', '1122', '987', '315', '1481', '3145', '1485', '398', '1713', '1524', '2640', '2170', '1527', '522', '2388', '1016', '1389', '586', '309', '1339', '2447', '580', '2416', '2287', '2645', '247', '1589', '3265', '2044', '1646', '906', '781', '1430', '2576', '1727', '1772', '1722', '3263', '2398', '1530', '2165', '1006', '2371', '459', '621', '2298', '2591', '625', '2921', '1283', '2475', '859', '1877', '259', '2038', '2005', '2800', '1902', '823', '171', '2142', '2050', '3217', '288', '2563', '1325', '346', '2119', '652', '653', '3134', '749', '738', '189', '1207', '3083', '752', '469', '635', '2625', '2422', '1849', '1355', '1596', '2479', '2111', '91', '2189', '1599', '966', '3086', '960', '1626', '2219', '2010', '2109', '658', '2022', '1515', '2696', '1747', '1226', '828', '1512', '2861', '2864', '2865', '747', '1205', '2869', '1952', '2738', '1648', '3060', '239', '657', '1893', '2002', '2635', '1810', '878', '876', '3105', '3106', '2222', '2138', '3180', '3182', '1824', '2505', '1296', '1698', '1295', '777', '2582', '897', '2900', '2641', '2879', '2676', '3230', '2532', '3059', '485', '500', '687', '573', '78', '2238', '1866', '2089', '1618', '1045', '1491', '3224', '2080', '1289', '1288', '1971', '3197', '1473', '3192', '1506', '1689', '2530', '800', '683', '1590'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['768', '212', '2960', '2714', '622', '764', '1264', '1856', '1868', '1611', '2882', '693', '1831', '1542', '1773', '1079', '624', '1779', '1778', '3125', '542', '404', '341', '2400', '933', '283', '1916', '936', '816', '1462', '1095', '1313', '2461', '1912', '2852', '2469', '672', '710', '121', '3137', '2655', '1293', '2010', '1958', '1069', '1703', '1829', '1567', '1556', '2317', '2314', '2319', '2495', '258', '2310', '2396', '2105', '2559', '920', '297', '922', '2038', '1414', '2797', '2066', '2148', '146', '2474', '980', '700', '1621', '3032', '1926', '796', '2721', '791', '1850', '3024', '3021', '1255', '520', '1521', '1399', '301', '2389', '1016', '308', '309', '1237', '2937', '1453', '445', '2931', '3151', '3150', '3154', '1771', '444', '2101', '780', '852', '2040', '3010', '2048', '1241', '518', '2149', '2985', '646', '2165', '2104', '517', '2594', '2595', '621', '578', '2591', '2593', '2292', '3266', '2295', '1228', '775', '2192', '97', '1909', '68', '2803', '1905', '3162', '171', '170', '2569', '2883', '1878', '857', '850', '2206', '1425', '2888', '2977', '2339', '3085', '2526', '2112', '2550', '568', '2429', '632', '469', '2810', '755', '1219', '564', '1354', '1869', '165', '2189', '3172', '160', '504', '1917', '2953', '220', '15', '14', '2215', '3200', '949', '1183', '867', '815', '2025', '2026', '721', '1517', '728', '1109', '2860', '2428', '1208', '2432', '62', '943', '1845', '1894', '2811', '3068', '2340', '1812', '1619', '2583', '1617', '1614', '3239', '42', '2138', '1963', '1697', '1112', '1442', '2031', '3183', '1757', '2506', '78', '1564', '1751', '1750', '2727', '2725', '1171', '1859', '898', '2067', '616', '1275', '2979', '711', '2970', '29', '3050', '1811', '644', '1281', '48', '1282', '1601', '1976', '1973', '1288', '2539', '474', '680', '2534'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['2659', '1593', '2714', '1303', '2652', '662', '873', '2097', '2567', '1873', '2090', '2038', '473', '138', '491', '26', '1545', '1302', '1540', '1835', '3090', '1940', '28', '1944', '407', '1375', '2403', '400', '931', '2011', '936', '996', '1117', '1157', '670', '1099', '120', '121', '1050', '2506', '129', '1959', '1562', '2999', '3249', '1704', '1533', '3034', '2266', '2312', '1066', '2410', '1389', '1669', '2792', '370', '1665', '1387', '1414', '1629', '2398', '2067', '2903', '1323', '708', '2891', '67', '986', '1125', '2776', '2478', '1481', '89', '2364', '2821', '2549', '2603', '3044', '2078', '522', '1523', '366', '1395', '362', '610', '2265', '1139', '2445', '2934', '2698', '2284', '3216', '3153', '1589', '1935', '2326', '3261', '781', '1430', '2272', '1380', '31', '1845', '2357', '1535', '1245', '1530', '2374', '1006', '3098', '1683', '2613', '2458', '897', '2923', '336', '331', '3139', '2452', '999', '61', '1167', '2194', '2195', '3169', '1633', '3008', '1878', '1423', '857', '1887', '3226', '1730', '210', '1737', '555', '2688', '6', '188', '1509', '2621', '2811', '564', '463', '701', '1918', '3072', '2959', '229', '1869', '165', '3173', '2188', '907', '11', '966', '3086', '904', '2215', '2214', '2895', '2897', '1182', '1259', '1831', '1456', '1923', '1453', '2352', '1724', '1743', '1165', '3129', '1205', '551', '3220', '3062', '238', '2949', '584', '1570', '2943', '3232', '2135', '893', '2133', '2130', '2342', '2226', '47', '953', '1613', '1610', '2740', '1441', '3183', '1756', '1755', '1565', '1698', '1295', '2649', '1175', '619', '2876', '2874', '1098', '2879', '2645', '149', '2468', '2972', '1575', '1884', '1005', '1761', '2334', '48', '3134', '947', '2232', '3221', '2234', '3104', '470', '2270', '3056', '3199', '1689', '1763', '801', '686', '1857', '1368', '1479'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['1141', '2716', '1261', '1309', '91', '1268', '3040', '496', '871', '3047', '692', '1547', '2327', '1078', '1077', '1838', '2485', '2664', '3124', '1549', '2455', '2156', '541', '1469', '2151', '1465', '2245', '1467', '2247', '1461', '2013', '1316', '678', '1092', '711', '767', '3134', '1496', '1498', '2899', '1562', '2999', '1555', '2357', '2316', '54', '1063', '2993', '2312', '1822', '1418', '536', '412', '1824', '1667', '1412', '1295', '1663', '2475', '1326', '198', '983', '311', '986', '115', '143', '3142', '2870', '2828', '1925', '1485', '1540', '2397', '2786', '1717', '929', '3026', '3256', '1854', '2026', '121', '1857', '1524', '1254', '1521', '2175', '2389', '2071', '1392', '2519', '308', '1631', '3199', '302', '2286', '240', '1934', '20', '1437', '1647', '2276', '2523', '2578', '32', '1840', '1847', '36', '1844', '640', '646', '436', '1005', '1710', '1002', '2163', '1936', '1349', '1075', '2613', '2458', '2861', '573', '2920', '22', '577', '988', '1300', '2618', '606', '2195', '1906', '2800', '1905', '1900', '2882', '855', '857', '2204', '1730', '2867', '540', '656', '183', '2405', '2368', '3085', '2680', '1212', '1213', '1206', '2480', '1849', '462', '1865', '973', '2188', '160', '222', '781', '3140', '3205', '960', '1994', '1598', '963', '1184', '1028', '354', '2796', '2754', '2021', '2514', '2515', '2692', '2734', '2587', '742', '2863', '1160', '831', '884', '2432', '2430', '1201', '1203', '3061', '991', '2137', '2341', '3109', '48', '2342', '2226', '3100', '2223', '1611', '321', '3180', '1116', '476', '1290', '2504', '2500', '2872', '892', '2423', '1734', '1270', '1271', '2005', '460', '2978', '2988', '1223', '3052', '3051', '2330', '1042', '2333', '3229', '1282', '2614', '1049', '1602', '3221', '2408', '2270', '3193', '1539', '1361', '1574', '2536', '1767', '805', '2535'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['1789', '1306', '1718', '2846', '1781', '2969', '1785', '219', '3048', '130', '2092', '2099', '3044', '1774', '2321', '1776', '1836', '1770', '1110', '1075', '28', '29', '541', '811', '2247', '2240', '1460', '409', '1019', '996', '1159', '1550', '715', '1099', '1795', '1941', '1952', '129', '2499', '1068', '3249', '59', '2555', '2556', '1558', '1512', '1821', '1820', '2310', '379', '2394', '1284', '2416', '1667', '921', '2477', '774', '982', '705', '1329', '987', '2995', '1480', '1924', '1925', '1926', '277', '2824', '2826', '1757', '796', '1905', '2546', '2544', '3162', '2549', '1853', '1257', '2170', '2384', '2178', '422', '424', '1654', '2882', '300', '2449', '1239', '2930', '589', '3152', '382', '3150', '385', '1178', '1543', '784', '1437', '900', '787', '2040', '2041', '2693', '3213', '3017', '2106', '640', '3097', '1530', '435', '433', '516', '2725', '2597', '1220', '572', '1342', '575', '2618', '690', '3007', '65', '2197', '176', '3165', '2806', '3160', '1668', '2055', '1981', '1582', '2563', '530', '1735', '2564', '979', '1736', '1502', '183', '655', '2689', '1504', '6', '2367', '738', '189', '2116', '734', '1212', '750', '2811', '468', '1806', '1353', '43', '758', '2122', '1590', '3077', '1913', '2957', '1599', '1280', '2210', '1626', '1625', '1187', '2897', '2047', '2891', '1028', '1831', '1450', '1103', '2699', '2698', '1517', '817', '2028', '2357', '2104', '604', '2865', '943', '634', '276', '1050', '1198', '3231', '2226', '599', '1193', '2812', '1961', '1197', '323', '1444', '326', '2941', '1119', '2505', '2504', '1296', '1297', '509', '1175', '2870', '894', '1712', '613', '1272', '2676', '2729', '615', '2135', '1418', '1884', '1881', '2120', '2332', '2333', '1802', '946', '1600', '1605', '2234', '404', '2085', '2003', '1683', '3194', '1476', '1760', '2009', '1614'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['2966', '2031', '2847', '1783', '766', '620', '3079', '2323', '2524', '1831', '1771', '2746', '1076', '2487', '699', '2529', '2268', '1070', '1945', '288', '2248', '2249', '326', '1467', '282', '1671', '286', '2464', '1316', '2222', '1260', '2709', '1399', '718', '674', '1267', '1912', '714', '670', '2469', '1795', '3253', '1495', '1952', '1995', '2178', '1550', '3249', '3248', '2191', '1559', '2991', '3241', '3240', '2312', '9', '2799', '829', '2414', '2061', '2255', '1655', '538', '1087', '590', '2900', '982', '2891', '1328', '2908', '986', '2479', '1578', '116', '69', '2824', '1489', '1488', '84', '3055', '2988', '792', '1715', '3028', '2380', '1658', '2387', '2386', '1014', '2263', '1016', '916', '424', '1404', '2604', '1388', '2769', '25', '1330', '589', '3261', '146', '973', '1542', '1939', '922', '2887', '903', '923', '906', '2040', '1847', '2278', '849', '2674', '2148', '1538', '2597', '787', '334', '2201', '3004', '3000', '844', '1907', '2801', '3163', '2835', '1986', '3215', '1589', '2055', '422', '1980', '2059', '1732', '1586', '1737', '248', '2118', '655', '652', '653', '509', '3085', '186', '3081', '1374', '630', '2623', '1358', '464', '2818', '2426', '462', '1595', '2063', '1591', '164', '165', '1818', '161', '2953', '15', '1979', '3201', '38', '2895', '1629', '968', '727', '390', '2519', '2351', '2357', '2104', '741', '559', '154', '3016', '1548', '550', '552', '1896', '1312', '2134', '2827', '1618', '2229', '876', '47', '2730', '3100', '2349', '1819', '1611', '1695', '1443', '3181', '1690', '1691', '1757', '1756', '3188', '2727', '1176', '283', '2436', '713', '2795', '1796', '1889', '1887', '2427', '483', '2008', '65', '2336', '3118', '2082', '2339', '1714', '942', '3112', '3223', '1808', '1367', '354', '1680', '3199', '1356', '1478', '2009', '806', '359'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['1788', '214', '1141', '2848', '459', '2845', '1309', '1786', '3049', '3171', '956', '1447', '2520', '1834', '2324', '3175', '3257', '2406', '543', '2171', '2249', '281', '2017', '2158', '1462', '2464', '994', '2037', '2916', '1093', '717', '2919', '1758', '999', '121', '2619', '2178', '1705', '1877', '3035', '3036', '3240', '3032', '3033', '2411', '1666', '2790', '1387', '1663', '1629', '539', '291', '1087', '2476', '988', '198', '147', '311', '317', '3227', '2472', '113', '3234', '2892', '2821', '2785', '833', '831', '2546', '1714', '1850', '3024', '2789', '2985', '1257', '179', '527', '2384', '2174', '2071', '1407', '1529', '2668', '1655', '1138', '1339', '2937', '302', '2935', '2608', '2609', '1136', '380', '3262', '243', '2837', '307', '827', '2275', '2726', '2063', '907', '841', '840', '1889', '2489', '35', '1844', '3092', '3093', '3090', '383', '2066', '1008', '436', '2164', '2167', '1003', '1001', '2929', '2928', '1534', '626', '2592', '2290', '2450', '2295', '1347', '2191', '2809', '1873', '3003', '178', '2481', '3163', '1878', '1901', '1151', '3215', '852', '2560', '3218', '3219', '1505', '631', '151', '1608', '2543', '564', '2426', '99', '1862', '1869', '444', '283', '1916', '13', '1992', '15', '3202', '1624', '861', '2219', '1181', '2024', '2082', '1456', '721', '2778', '2243', '622', '1416', '2734', '1840', '2730', '41', '885', '2429', '2868', '749', '889', '609', '1275', '2941', '958', '1052', '1810', '2340', '2130', '817', '1614', '1195', '1961', '1610', '3103', '1111', '2851', '3186', '1444', '327', '2030', '1297', '644', '1278', '774', '2629', '205', '1602', '141', '2641', '778', '149', '2954', '489', '484', '482', '1881', '1880', '1806', '1269', '1479', '1802', '1044', '2819', '1976', '2233', '3114', '2086', '3223', '1808', '472', '1578', '2078', '1973', '1966'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['1143', '839', '2846', '2847', '1148', '2968', '764', '130', '2090', '2092', '497', '24', '2526', '21', '2482', '344', '342', '1376', '1379', '1677', '349', '2242', '286', '2464', '2465', '2467', '2914', '990', '2851', '675', '999', '2469', '672', '126', '183', '58', '777', '1068', '2552', '1554', '2266', '3247', '1820', '414', '1419', '298', '299', '2792', '1666', '1381', '1087', '2727', '593', '862', '198', '1324', '2289', '312', '1329', '1236', '1126', '116', '1925', '3146', '2827', '1711', '974', '2546', '834', '3028', '256', '3024', '2305', '429', '525', '2170', '2386', '2263', '2261', '1528', '2075', '1390', '586', '587', '2606', '585', '2446', '531', '581', '2280', '1137', '2760', '1331', '1984', '3129', '1936', '3267', '3266', '2837', '615', '2197', '844', '780', '2270', '2578', '3013', '2570', '3092', '1617', '1242', '728', '1530', '649', '1005', '3216', '2370', '2160', '1227', '2614', '627', '1165', '3126', '629', '333', '2452', '60', '2192', '1422', '1832', '3167', '173', '1900', '594', '3002', '3215', '2880', '1633', '970', '1582', '1730', '1586', '1734', '182', '2119', '3089', '2974', '2362', '633', '2626', '2582', '639', '1218', '2401', '1356', '2589', '987', '1674', '91', '2334', '1912', '2952', '1995', '1188', '963', '1628', '1182', '2681', '1480', '287', '2352', '3111', '1516', '944', '2691', '656', '605', '2861', '153', '743', '2864', '602', '2432', '2430', '1168', '1169', '2434', '1720', '232', '1854', '3109', '2228', '1190', '1818', '355', '3102', '1112', '1351', '2500', '201', '144', '2879', '1275', '1276', '2700', '75', '3057', '3050', '78', '1807', '170', '1287', '1047', '2343', '1979', '2231', '681', '1201', '1048', '1341', '3220', '2084', '356', '1364', '3194', '1685', '2534', '2300', '2532', '802', '1478', '1761', '807', '1909', '1764', '1369'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['1268', '2961', '2717', '2653', '760', '1260', '2969', '662', '2841', '2954', '3043', '1774', '1544', '1545', '1540', '2486', '2957', '28', '3', '3125', '288', '2151', '2246', '2016', '2011', '1460', '2709', '1158', '1566', '2030', '1098', '712', '2656', '3135', '1956', '1953', '3132', '1958', '1700', '3248', '2558', '3035', '2994', '360', '1709', '2257', '2064', '419', '377', '2778', '308', '593', '596', '196', '1126', '205', '2827', '2822', '1568', '2721', '3172', '2985', '2381', '2079', '1014', '2072', '911', '2267', '1012', '2142', '2288', '2769', '2727', '2280', '1336', '1777', '1239', '1933', '1935', '103', '1939', '2833', '2832', '2831', '1298', '2044', '1646', '782', '905', '2376', '2574', '1847', '1723', '3014', '2065', '1532', '648', '434', '514', '2163', '2617', '1226', '2299', '2612', '1056', '3218', '2923', '2290', '577', '2452', '3007', '1875', '2196', '1907', '2806', '3114', '2053', '3197', '2206', '2560', '1735', '859', '2567', '2118', '2119', '2648', '732', '2688', '650', '509', '2685', '1509', '2363', '658', '2360', '2814', '2585', '981', '634', '2627', '1352', '1218', '2588', '1918', '3072', '787', '1749', '2959', '3077', '1911', '1281', '2956', '2188', '222', '1598', '3228', '3171', '1993', '1995', '2215', '2680', '862', '725', '500', '2697', '2515', '2690', '2861', '2609', '2438', '2866', '631', '1973', '1200', '36', '1899', '759', '1895', '3069', '1439', '2915', '1051', '3128', '2228', '2342', '3104', '953', '40', '1447', '320', '1695', '2031', '325', '1476', '2505', '1351', '1751', '1699', '146', '203', '2877', '207', '2879', '2878', '616', '2729', '77', '1117', '1887', '1501', '3055', '2977', '2239', '1342', '686', '1803', '2335', '1283', '98', '1976', '3227', '1602', '1289', '2181', '2236', '1366', '356', '808', '1680', '2007', '478', '2531', '681', '3106', '1479'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Traceback (most recent call last):
+  File "youtube.py", line 87, in main
+    bicc.append({"hirisk" : len(sorted(nx.biconnected_component_subgraphs(hirisk.to_undirected()), key=lambda x: -len(x))[0].node), "lorisk" :len(sorted(nx.biconnected_component_subgraphs(lorisk.to_undirected()), key=lambda x: -len(x))[0].node)})
+IndexError: list index out of range
+set(['2712', '769', '2845', '1309', '1264', '3171', '494', '1547', '690', '1773', '3250', '2329', '2485', '3127', '2405', '2402', '400', '932', '2246', '2247', '814', '284', '1462', '2910', '994', '1097', '2915', '674', '1154', '2030', '1797', '2469', '673', '3135', '478', '1497', '3203', '442', '1707', '1553', '1555', '2555', '1556', '1708', '1060', '2314', '2993', '2495', '1721', '379', '415', '54', '296', '2944', '2062', '2791', '290', '538', '591', '590', '2471', '1279', '1122', '2908', '777', '192', '867', '2364', '1489', '398', '84', '1858', '2780', '2782', '3026', '838', '2124', '2985', '428', '526', '1521', '2175', '2179', '875', '2769', '1339', '2602', '1334', '2282', '2391', '2932', '1330', '2930', '3239', '3152', '3265', '3264', '248', '2831', '2054', '900', '2100', '780', '2270', '1369', '31', '1847', '789', '1720', '2571', '1243', '1242', '3094', '384', '434', '822', '431', '2595', '1839', '2257', '3059', '1073', '3005', '64', '2567', '3057', '2199', '257', '1228', '976', '2881', '3210', '1424', '1732', '1615', '1737', '731', '180', '1372', '652', '508', '736', '2367', '3087', '189', '659', '636', '461', '848', '1919', '1032', '1675', '2954', '2957', '3176', '1991', '868', '1621', '967', '2217', '3119', '1624', '861', '285', '2337', '2893', '1683', '722', '2021', '1101', '2514', '2353', '2350', '1516', '1740', '1486', '2860', '2736', '2991', '554', '3017', '3069', '1439', '2941', '1816', '2135', '2130', '1057', '1616', '3107', '2222', '873', '957', '3103', '3185', '320', '1682', '2745', '325', '1119', '2506', '3188', '1566', '890', '797', '892', '1378', '207', '772', '1274', '2134', '75', '489', '488', '655', '1794', '3098', '1806', '1805', '3229', '48', '2127', '1860', '943', '2236', '2003', '1579', '808', '2006', '2535', '929', '684', '1478', '358', '1765'])
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing degs
+Computing transitivity
+Computing triangles
+Clustering...
+Computing clustering
+Core_number...
+Computing core_number
+Computing ave_path_len
+Computing core_number
+Computing triangles
+Computing clustering
+Computing lccs
+Computing degrees
+Computing clique
+Computing biconnected size
